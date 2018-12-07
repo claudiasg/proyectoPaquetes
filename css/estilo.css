@@ -12,5 +12,13 @@ input,textarea{
   }
 .rojo:focus {
     box-shadow: 0 0 5px rgba(255,0,0,1);
-    border:1px solid rgba(255,0,0,0.8);
+    border:2px solid rgba(255,0,0,0.8);
+  }
+.naranja:focus {
+    box-shadow: 0 0 5px rgba(230,95,0,1);
+    border:2px solid rgba(230,95,0,0.8);
+  }
+.verde:focus {
+    box-shadow: 0 0 5px rgba(0,255,0,1);
+    border:2px solid rgba(0,255,0,0.8);
   }
