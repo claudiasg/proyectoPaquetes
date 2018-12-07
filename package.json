@@ -1,0 +1,23 @@
+{
+  "name": "proyectopaquetes",
+  "version": "1.0.0-beta.1",
+  "description": "Efecto focus color input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudiasg/proyectoPaquetes.git"
+  },
+  "keywords": [
+    "focus",
+    "input"
+  ],
+  "author": "'clau'",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claudiasg/proyectoPaquetes/issues"
+  },
+  "homepage": "https://github.com/claudiasg/proyectoPaquetes#readme"
+}
