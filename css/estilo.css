@@ -5,7 +5,6 @@ input,textarea{
     border-radius:4px;
     border:1px solid rgba(0,0,0,0.2);
   }
-
 .azul:focus {
     box-shadow: 0 0 5px rgba(0,0,255,1);
     border:2px solid rgba(0,0,255,0.8);
