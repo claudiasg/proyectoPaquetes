@@ -40,3 +40,8 @@ El paquete cuenta con un index para obervar el funcionamiento del paquete.
 
 >*La version **1.2.2*** presenta el efecto en dos input de tipo text, de dos textarea coloreando el borde cuando el cursor esta en cualquiera de ellos y ademas presenta el efecto del boton cuando esta posicionado en el cambio de color y tamaño.
 
+
+**Las clases a utilizar en cada version para input son:** *rojo, azul, naranja  y verde.*
+**La clase para botones es:** *boton*
+
+
